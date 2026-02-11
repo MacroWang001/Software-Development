@@ -5,4 +5,5 @@
 
 | Title | Path | Description |
 |-------|------|-------------|
-|  1 | [articles/article1.md](articles/article1.md) | Brief description |
+|  1 | [Build an OpenClaw bot from scratch](Create-An-OpenClaw.md) | Brief description |
+
